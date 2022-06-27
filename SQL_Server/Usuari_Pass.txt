@@ -1,3 +1,0 @@
-usuario 	sa
-pass		74161368ATILIO
-SQL SERVER
